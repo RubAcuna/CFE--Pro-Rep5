@@ -6,6 +6,7 @@ class Agenda{
     +buscarContacto(nombre: String): Contacto
 }
 
+
 class Contacto{
     -nombre: String
     -telefono: String
